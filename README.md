@@ -6,7 +6,7 @@
 
 # 💫About Me :
 
-🔭 I'm currently working with React and its Ecosystem, Fanatic for Nextjs, Tailwind! ❤️
+🔭 I'm currently self-taught React and its Ecosystems, Absolute fanatic for Nextjs, Tailwind, Tanstacks ! 🤗
 
 ⚡ I love to do side-projects with bleeding-edge technologies. 😎
 
@@ -26,5 +26,5 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-  
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Jquery](https://img.shields.io/badge/jquery-%234ea94b.svg?style=for-the-badge&logo=jquery&logoColor=white)
