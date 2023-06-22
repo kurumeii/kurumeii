@@ -27,4 +27,4 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Jquery](https://img.shields.io/badge/jquery-%234ea94b.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Jquery](https://img.shields.io/badge/jquery-%231572B6.svg?style=for-the-badge&logo=jquery&logoColor=white)
