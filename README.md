@@ -6,7 +6,7 @@
 
 # 💫About Me :
 
-🔭 I'm currently self-taught React and its Ecosystems, Absolute fanatic for Nextjs, Tailwind, Tanstacks ! 🤗
+🔭 I'm currently self-taught React and its Ecosystems, Absolute fanatic for ~Nextjs~ *Remix (React Router v7)*, Tailwind css, Tanstacks ! 🤗
 
 ⚡ I love to do side-projects with bleeding-edge technologies. 😎
 
