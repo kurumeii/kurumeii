@@ -12,7 +12,8 @@
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=Facebook&logoColor=white)]([https://www.facebook.com/nguyenphuc.hoanganh98/](https://www.facebook.com/profile.php?id=61555302790742)) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Kurumeii) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Kurumeii)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hoang-anh-734906284/)
 
 # 💻Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
